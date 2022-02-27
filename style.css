@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,600;0,700;0,800;0,900;1,500&display=swap');
+
+/* Gobal Styling */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    margin: 0%;
+    width: 100%;
+}
+section{
+    width: 1920px;
+    padding-top: 70px;
+    height: 920px;
+    
+}
+
+
+.jack-color{
+    color: #f25278;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 0%;
+    padding-left: 5%;
+}
+.half-width-1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 250px;
+    padding-left: 80px;
+}
+.half-width-1 h2{
+    font-weight: 500;
+    padding-bottom: 5px;
+    font-size: 40px;
+}
+.half-width-1 h1{
+    font-weight: 800;
+    padding-bottom: 25px;
+    font-size: 60px;
+    text-align: left;
+    
+
+}
+.half-width-1 p{
+
+    padding-bottom: 35px;
+    text-align: left;
+}
+.half-width img{
+    height: 800px;
+}
+.top-banner{
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+    margin: 0px 0px 50px 0px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-color: #f25278;
+    color: #fff;
+    padding: 10px 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    transition: 0.3s;
+
+}
+.link-button:hover{
+    opacity: 0.6;
+}
+.biography{
+    background-image: url("img/biography-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.bio-half-width{
+    width: 40%;
+    float: left;
+    margin-left: 0%;
+    padding-left: 5%;
+}
+.biography-img{
+    align-items: left;
+}
+.bio-h1{
+    font-weight: 600;
+    font-size: 40px;
+    padding-bottom: 35px;
+}
+.latest-work h2{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+.latest-work-img{
+    display: flex;
+  justify-content: center;
+  padding-top: 80px;
+}
+
+.latest-work-img img{
+    height: 450px;
+    align-items: center;
+    padding: 20px;
+    
+}.latest-work{
+    /* background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat; */
+    background-color:  #eff1f1 ;
+}
+.client-say{
+    text-align: center;
+    background-image: url("img/footer-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.client-say h2{
+    font-size: 35px;
+    padding-bottom: 70px;
+    
+    font-weight: 600;
+}
+.client-say h5{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.client-say p{
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 50px;
+    text-align: center;
+
+}
+.box{
+    margin: auto;
+  width: 25%;
+  
+  padding-bottom: 50px;
+  
+    
+}
+.box p{
+    text-align: center;
+}
+.box2{
+    margin: auto;
+    width: 30%;
+    height: 150px;
+    border: #f25278 solid;
+    background-color: #f25278;
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    
+}
+.box2 p{
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+.box2 h5{
+    font-weight: 700;
+    font-size: 25px;
+}
+.footer{
+    padding-top: 290px;
+    font-size: 12px ;
+    text-align: center;
+}
+
+
+
+
